@@ -5,6 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './candidates.component.html',
   styleUrls: ['./candidates.component.css']
 })
+
 export class CandidatesComponent implements OnInit {
    missionName = "LaunchCode Moonshot"
 
