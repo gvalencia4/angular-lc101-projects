@@ -13,3 +13,4 @@ export class AppComponent {
   width = 0;
   message = 'Space shuttle ready for takeoff!';
 }
+
